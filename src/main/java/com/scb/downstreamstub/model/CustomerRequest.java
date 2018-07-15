@@ -1,4 +1,4 @@
-package com.scb.model;
+package com.scb.downstreamstub.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

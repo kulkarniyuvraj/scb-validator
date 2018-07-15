@@ -1,4 +1,4 @@
-package com.scb.validator.model;
+package com.scb.downstreamstub.model;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
